@@ -22,7 +22,29 @@
 
 ##
 
-Here you will find some projects that I have as a portfolio, in which I am developing my skills within Flutter.
+I already have the following skills so far in Flutter and Dart:
+
+- Fundamentals and Widgets
+- Storages
+- Provider
+- Hands-on Provider with Sqlite in Module architecture
+- Packages
+- State Management (Bloc and Mobx)
+- Packages (Freezed, Flutter Modular)
+- Firebase
+- Hands-on Cuidapet (modular+mobx)
+- Dart Functions and Collections
+- POO
+- Dart Async
+- API consumption
+- Lab (Assembling a CLI in Dart)
+- Dart Streams
+- Dart Database
+- Unit Tests
+-Mocks
+- Database Mocks
+- Asserts and verifys
+- Fixture test (Mock of service responses)
 
 <div>
   <a href="mailto:contatomarllondaavid@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
