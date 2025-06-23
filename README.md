@@ -2,9 +2,13 @@
 
 ## Activities and Experiences
 
-- 📱Junior Developer in Flutter
-- 🎓 Graduated in Systems Analysis and Development
-- 💻 Passionate about technology
+- 📱 Passionate about mobile development using **Flutter**;
+- 💻 2 years of experience working on internal business apps and personal projects;
+- 🧠 Currently improving my skills in **Clean Architecture**, **SOLID principles**, and **automated testing**;
+- 🎨 Able to transform Figma designs into responsive and functional Flutter UIs;
+- 🔄 Experience with state management using **Provider**, **ValueNotifier**, and learning **Riverpod**, **BLoC**;
+- 🔧 Familiar with consuming **REST APIs**, local persistence, exception handling, and animations;
+- 📈 Open for freelance opportunities or collaborations focused on clean code and scalable solutions.
 
 <div align="center">
   <a href="https://github.com/marllondavid">
